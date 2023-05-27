@@ -1,0 +1,6 @@
+outputs/model.pth
+png*
+img*
+
+!outputs/accuracy.png
+!outputs/loss.png
